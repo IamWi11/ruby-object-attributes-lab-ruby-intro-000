@@ -14,5 +14,3 @@ def job= (job)
   def job
     @job
 end
-
-Person.new("Will")
