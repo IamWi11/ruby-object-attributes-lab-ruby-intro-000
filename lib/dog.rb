@@ -4,15 +4,11 @@ def dogs(dogs_name, dogs_breed)
   @dogs_breed = dogs_breed
 end
 
-def name
-  @ name
+def dogs_name
+  @ dogs_name
 end
 
-def breed(breed)
-  @breed = breed
-end
-
-def breed
-  @breed
+def dogs_breed
+  @dogs_breed
 end
 end
