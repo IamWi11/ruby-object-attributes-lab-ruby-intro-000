@@ -15,3 +15,4 @@ def breed= (breed)
   @breed
   end
 end
+end
