@@ -1,5 +1,5 @@
 class Dog
-def dogs(dogs_name, dogs_breed)
+def dogs = (dogs_name, dogs_breed)
   @dogs_name = dogs_name
   @dogs_breed = dogs_breed
 end
