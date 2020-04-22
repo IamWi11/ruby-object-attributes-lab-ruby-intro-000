@@ -1,5 +1,5 @@
 class Person
-def persons_name(persons_name, persons_job)
+def persons_name = (persons_name, persons_job)
   @persons_name = persons_name
   @persons_job = persons_job
 end
