@@ -8,7 +8,6 @@ def persons_name
   @ persons_name
 end
 
-
 def persons_job
   @persons_job
   end
