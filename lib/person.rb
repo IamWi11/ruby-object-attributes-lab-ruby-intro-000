@@ -13,4 +13,5 @@ def job= (job)
 
   def job
     @job
+  end
 end
