@@ -5,7 +5,7 @@ def persons_name(persons_name, persons_job)
 end
 
 def persons_name
-  @ persons_name
+  @persons_name
 end
 
 def persons_job
