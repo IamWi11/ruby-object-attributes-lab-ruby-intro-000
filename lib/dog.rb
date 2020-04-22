@@ -15,5 +15,3 @@ def breed= (breed)
   @breed
   end
 end
-
-Dog.new("Fido")
