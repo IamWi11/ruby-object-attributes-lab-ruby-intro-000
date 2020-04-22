@@ -4,7 +4,7 @@ def dogs = (name)
 end
 
 def name
-  @dogs_name
+  @name
 end
 
 def dogs_breed(dogs_breed)
